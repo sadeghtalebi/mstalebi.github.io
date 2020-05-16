@@ -13,5 +13,5 @@ My research interests include:
 - Stochastic multi-armed bandits
 - Resource allocation in networks
 
-![Sadegh](https://www.dropbox.com/s/ccchmhhvxgkol4a/Sadegh_1.jpg?dl=0)
+![Sadegh](https://www.dropbox.com/s/ccchmhhvxgkol4a/Sadegh_1.jpg?dl=0)  
 
